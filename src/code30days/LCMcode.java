@@ -24,6 +24,7 @@ public class LCMcode {
 	    		break;
 	    		}
 	    	lcm++;
+	    	
 	    }
 	}
 
